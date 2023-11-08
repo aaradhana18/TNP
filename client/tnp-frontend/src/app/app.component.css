@@ -1,0 +1,18 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+.login-form{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 3rem 4rem;
+    width: 65%;
+    height: 70%;
+    background-color: white;
+}
+
+.right-col{
+    background-color: #e5fad4;
+}
+
+.row{
+    height: 130%;
+}
